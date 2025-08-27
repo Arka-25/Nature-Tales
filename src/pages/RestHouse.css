@@ -1,0 +1,113 @@
+.nav1{
+    height:14vh;
+    width:90vw;
+    background-color:rgba(17, 232, 38, 0.623);
+    border-radius:17px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    gap: 5vw;
+    position: absolute;
+    top: 3vh;
+    margin:0.5vh 5vw 0vh 5vw;
+}
+.list1{
+   display: flex;
+   gap: 5vw;
+   padding: 0vh 0vw 0vh 33vw;
+   list-style: none;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.button1{
+    height: 20vh;
+    width:15vw;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+.heading1{
+    margin-left: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+}
+.div5{
+    height:120vh;
+    width:97.9vw;
+    background-color: rgba(0, 0, 255, 0.459);
+    display: flex;
+}
+.img8{
+    height: 120vh;
+    width: 98vw;
+}
+.subdiv6{
+    height:45vh;
+    width:78vw;
+    background-color: rgba(0, 0, 0, 0.875);
+    position:absolute;
+    top: 23vh;
+    left:11vw;
+    border-radius:30px;
+}
+.img9{
+    height:45vh;
+    width:35vw;
+    border-radius: 20%;
+}
+.head8{
+    position: absolute;
+    top: 0vh;
+    left: 37vw;
+    color: rgba(255, 255, 0, 0.596);
+}
+.para8{
+    position: absolute;
+    top: 8vh;
+    left: 35vw;
+    color: rgba(0, 0, 255, 0.557);
+    text-align: center;
+}
+.button8{
+    height: 10vh;
+    width:25vw;
+    position: absolute;
+    top: 30vh;
+    left: 94vh;
+    color: rgb(99, 25, 25);
+    background-color: rgb(226, 43, 43);
+}
+.subdiv7{
+    height: 40vh;
+    width:78vw;
+    background-color: rgba(3, 47, 26, 0.659);
+    position: absolute;
+    top: 77vh;
+    left: 11vw;
+    border-radius: 20px;
+}
+.img10{
+    height:40vh;
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.para9{
+    position: absolute;
+    top: 10vh;
+    left:25vw;
+    color: rgb(154, 134, 240);
+}
+.head9{
+    position: absolute;
+    top: 1vh;
+    left: 28vw;
+    color:rgb(96, 209, 209)
+}
+.button9{
+    height: 10vh;
+    width: 15vw;
+    position: absolute;
+    top: 29vh;
+    left:43vw;
+    background-color: rgb(7, 112, 131);
+    color: rgb(255, 157, 0);
+}
